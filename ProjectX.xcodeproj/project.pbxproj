@@ -13,6 +13,15 @@
 		BD332B4A2CFAA22F00EE278B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD332B482CFAA22F00EE278B /* Main.storyboard */; };
 		BD332B4C2CFAA23200EE278B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD332B4B2CFAA23200EE278B /* Assets.xcassets */; };
 		BD332B4F2CFAA23200EE278B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD332B4D2CFAA23200EE278B /* LaunchScreen.storyboard */; };
+		BDB5BDF12CFAB42B00F76DB9 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5BDF02CFAB42B00F76DB9 /* RegisterViewController.swift */; };
+		BDB5BDF32CFAB44900F76DB9 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5BDF22CFAB44900F76DB9 /* LoginViewController.swift */; };
+		BDB5BDF52CFC09BE00F76DB9 /* NegociosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5BDF42CFC09BE00F76DB9 /* NegociosViewController.swift */; };
+		BDB5BDF72CFC0A0500F76DB9 /* BuscarNegociosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5BDF62CFC0A0500F76DB9 /* BuscarNegociosViewController.swift */; };
+		BDB5BDF92CFC0A6600F76DB9 /* InformacionNegocioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5BDF82CFC0A6600F76DB9 /* InformacionNegocioViewController.swift */; };
+		BDB5BDFB2CFC0A9C00F76DB9 /* NegocioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5BDFA2CFC0A9C00F76DB9 /* NegocioViewController.swift */; };
+		BDB5BDFD2CFC0AE100F76DB9 /* EditarInformacionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5BDFC2CFC0AE100F76DB9 /* EditarInformacionViewController.swift */; };
+		BDB5BDFF2CFC0B1900F76DB9 /* EditarInformacionObjetoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5BDFE2CFC0B1900F76DB9 /* EditarInformacionObjetoViewController.swift */; };
+		BDB5BE012CFC0B3600F76DB9 /* AgregarObjetoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5BE002CFC0B3600F76DB9 /* AgregarObjetoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +33,15 @@
 		BD332B4B2CFAA23200EE278B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD332B4E2CFAA23200EE278B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD332B502CFAA23200EE278B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDB5BDF02CFAB42B00F76DB9 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		BDB5BDF22CFAB44900F76DB9 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		BDB5BDF42CFC09BE00F76DB9 /* NegociosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NegociosViewController.swift; sourceTree = "<group>"; };
+		BDB5BDF62CFC0A0500F76DB9 /* BuscarNegociosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuscarNegociosViewController.swift; sourceTree = "<group>"; };
+		BDB5BDF82CFC0A6600F76DB9 /* InformacionNegocioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformacionNegocioViewController.swift; sourceTree = "<group>"; };
+		BDB5BDFA2CFC0A9C00F76DB9 /* NegocioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NegocioViewController.swift; sourceTree = "<group>"; };
+		BDB5BDFC2CFC0AE100F76DB9 /* EditarInformacionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditarInformacionViewController.swift; sourceTree = "<group>"; };
+		BDB5BDFE2CFC0B1900F76DB9 /* EditarInformacionObjetoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditarInformacionObjetoViewController.swift; sourceTree = "<group>"; };
+		BDB5BE002CFC0B3600F76DB9 /* AgregarObjetoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgregarObjetoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +81,15 @@
 				BD332B4B2CFAA23200EE278B /* Assets.xcassets */,
 				BD332B4D2CFAA23200EE278B /* LaunchScreen.storyboard */,
 				BD332B502CFAA23200EE278B /* Info.plist */,
+				BDB5BDF02CFAB42B00F76DB9 /* RegisterViewController.swift */,
+				BDB5BDF22CFAB44900F76DB9 /* LoginViewController.swift */,
+				BDB5BDF42CFC09BE00F76DB9 /* NegociosViewController.swift */,
+				BDB5BDF62CFC0A0500F76DB9 /* BuscarNegociosViewController.swift */,
+				BDB5BDF82CFC0A6600F76DB9 /* InformacionNegocioViewController.swift */,
+				BDB5BDFA2CFC0A9C00F76DB9 /* NegocioViewController.swift */,
+				BDB5BDFC2CFC0AE100F76DB9 /* EditarInformacionViewController.swift */,
+				BDB5BDFE2CFC0B1900F76DB9 /* EditarInformacionObjetoViewController.swift */,
+				BDB5BE002CFC0B3600F76DB9 /* AgregarObjetoViewController.swift */,
 			);
 			path = ProjectX;
 			sourceTree = "<group>";
@@ -112,7 +139,7 @@
 			);
 			mainGroup = BD332B362CFAA22F00EE278B;
 			packageReferences = (
-				BD332B562CFAA4A800EE278B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				BDB5BDED2CFAAC6700F76DB9 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 			);
 			productRefGroup = BD332B402CFAA22F00EE278B /* Products */;
 			projectDirPath = "";
@@ -142,8 +169,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD332B472CFAA22F00EE278B /* ViewController.swift in Sources */,
+				BDB5BE012CFC0B3600F76DB9 /* AgregarObjetoViewController.swift in Sources */,
+				BDB5BDF92CFC0A6600F76DB9 /* InformacionNegocioViewController.swift in Sources */,
+				BDB5BDF52CFC09BE00F76DB9 /* NegociosViewController.swift in Sources */,
+				BDB5BDFB2CFC0A9C00F76DB9 /* NegocioViewController.swift in Sources */,
 				BD332B432CFAA22F00EE278B /* AppDelegate.swift in Sources */,
+				BDB5BDF72CFC0A0500F76DB9 /* BuscarNegociosViewController.swift in Sources */,
 				BD332B452CFAA22F00EE278B /* SceneDelegate.swift in Sources */,
+				BDB5BDF32CFAB44900F76DB9 /* LoginViewController.swift in Sources */,
+				BDB5BDF12CFAB42B00F76DB9 /* RegisterViewController.swift in Sources */,
+				BDB5BDFD2CFC0AE100F76DB9 /* EditarInformacionViewController.swift in Sources */,
+				BDB5BDFF2CFC0B1900F76DB9 /* EditarInformacionObjetoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,12 +397,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		BD332B562CFAA4A800EE278B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+		BDB5BDED2CFAAC6700F76DB9 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
 			requirement = {
-				branch = main;
-				kind = branch;
+				kind = versionRange;
+				maximumVersion = 10.0.0;
+				minimumVersion = 9.0.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
